@@ -114,7 +114,7 @@ Generated personalized trip itinerary with rich media and suggested activities.
  Contribution
 
 
-This project was developed collaboratively by [Your Name](your_github_link) and [Sanchiti](her_github_link). Contributions are welcome — please open issues or pull requests for suggestions and improvements.
+This project was developed collaboratively by [Sam Soloman](your_github_link) and [Sanchiti Agrawal](her_github_link). Contributions are welcome — please open issues or pull requests for suggestions and improvements.
 
 
 ---
