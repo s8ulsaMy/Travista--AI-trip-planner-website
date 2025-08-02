@@ -117,35 +117,6 @@ Generated personalized trip itinerary with rich media and suggested activities.
 This project was developed collaboratively by [Sam Soloman](your_github_link) and [Sanchiti Agrawal](her_github_link). Contributions are welcome — please open issues or pull requests for suggestions and improvements.
 
 
----
-
-
- License
-
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
----
-
-
- Contact
-
-
-For any questions or feedback, feel free to reach out:
-
-
- Your Email: [your.email@example.com](mailto:your.email@example.com)
- Sanchitis Email: [sanchiti.email@example.com](mailto:sanchiti.email@example.com)
-
-
----
-
-
- How to Add Your Screenshots
-
-
-Replace `path_to_start_page_screenshot`, `path_to_create_trip_screenshot`, and `path_to_trip_generation_screenshot` with your actual screenshot image paths or URLs (you can upload images to the repo or host them elsewhere).
 
 
 
